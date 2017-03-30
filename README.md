@@ -4,3 +4,5 @@ PM2.5 data comes from **The U.S. Department of State's Mission China website** t
 
 Some basics about Air Quality Index (AQI), based on [US EPA's airnow.gov site](https://airnow.gov/index.cfm?action=aqibasics.aqi):
 
+![AQI Chart](AQI-chart.png)
+
